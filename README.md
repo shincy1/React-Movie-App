@@ -31,3 +31,5 @@ npm start
 
 1. itu komponen motion.div apa? darimana? dan buat apa?
 - komponennya itu untuk control animasi, kalau mau tau komponennya dimana tinggal ctrl + click
+2. ganti port hosting gimana?
+- di .env tinggal ganti aja portnya
